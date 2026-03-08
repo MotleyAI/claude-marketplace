@@ -1,10 +1,14 @@
 {
+  "name": "motley-marketplace",
+  "owner": {
+    "name": "MotleyAI"
+  },
   "plugins": [
     {
       "name": "agent-skills",
       "description": "Document builder tools and workflows for YourApp",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "MotleyAI/agent-skills"
       }
     }
