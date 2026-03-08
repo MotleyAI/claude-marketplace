@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "agent-skills",
-      "description": "Document builder tools and workflows for YourApp",
+      "name": "motley",
+      "description": "Motley data storytelling skills and MCP integration",
       "source": {
         "source": "github",
         "repo": "MotleyAI/agent-skills"
