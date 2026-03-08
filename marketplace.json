@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "description": "Document builder tools and workflows for YourApp",
+      "source": {
+        "type": "github",
+        "repo": "MotleyAI/agent-skills"
+      }
+    }
+  ]
+}
